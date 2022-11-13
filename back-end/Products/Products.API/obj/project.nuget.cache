@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "k4jY16XlP6jS8Q72lPJIJkhU9r6mHNE3ICR2n3H+vuSBJch/uy0hePxJn47/DKNM4LtD4VXqq44YrYwnsjo2gQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\z0047dpm\\RiderProjects\\PaymentSystem-React-.NET6.0\\back-end\\Products\\Products.API\\Products.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\z0047dpm\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\z0047dpm\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\z0047dpm\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\z0047dpm\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\z0047dpm\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\z0047dpm\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,3 @@
+.div{
+    @apply container m-auto flex flex-row gap-8
+}
